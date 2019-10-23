@@ -1,0 +1,29 @@
+body {
+    background-image: url("img1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.main {
+    margin: 15% auto 20px;
+    width: 50%;
+}
+
+.main h1 {
+    margin: 0 auto;
+    width: 50%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 59px;
+    text-align: center;
+}
+
+.table-responsive-sm {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.table {
+    border-radius: 10px;
+}
